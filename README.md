@@ -21,8 +21,9 @@ A Simple News App built with Flutter. In this app, there is a Home page, which w
 ## Screenshots
 Dark theme               |
 :-------------------------:
-![](https://github.com/KishanSingh1993/news_app/blob/master/screenshots/dark_1.jpg?raw=true)|
-
+![](https://github.com/KishanSingh1993/news_app/blob/master/screenshots/dark_1.jpg?raw=true)| ![](https://github.com/KishanSingh1993/news_app/blob/master/screenshots/dark_2.jpg?raw=true)
+| ![](https://github.com/KishanSingh1993/news_app/blob/master/screenshots/dark_3.jpg?raw=true) | ![](https://github.com/KishanSingh1993/news_app/blob/master/screenshots/dark_4.jpg?raw=true)
+| ![](https://github.com/KishanSingh1993/news_app/blob/master/screenshots/dark_5.jpg?raw=true) | ![](https://github.com/KishanSingh1993/news_app/blob/master/screenshots/dark_6.jpg?raw=true)
 ## Created & Maintained By
 
 -Kishan Singh
