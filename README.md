@@ -19,7 +19,9 @@ A Simple News App built with Flutter. In this app, there is a Home page, which w
 - [ ] Display full news detail
 
 ## Screenshots
-https://github.com/KishanSingh1993/news_app/blob/master/screenshots/dark_1.jpg
+Dark theme               |  Light Theme               | Dark theme               |  Light Theme
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------
+![](https://github.com/KishanSingh1993/news_app/blob/master/screenshots/dark_1.jpg?raw=true)|
 
 ## Created & Maintained By
 
