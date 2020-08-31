@@ -1,8 +1,32 @@
 # news_app
 
-A new Flutter application.
+A Simple News App built with Flutter. In this app, there is a Home page, which will display top news from newsapi.org. News categories ranges from tech to entertainment. You can choose news category displayed on category page. App is providing a smooth and amazing design with gestures effect and smooth experience with android and iOS both platform.
 
 ## Getting Started
+
+## Todos
+
+- [x] News Home page
+- [x] Video News page
+- [x] Select news category page
+- [x] Profile page
+- [x] Animations
+- [x] Beautiful UI with Dual themes ie. Light Theme and Dark Theme
+- [x] Fetch news from api
+- [x] Parse complicated JSON.
+- [x] Bloc pattern
+- [x] Display news detail
+- [ ] Display full news detail
+
+## Screenshots
+https://github.com/KishanSingh1993/news_app/blob/master/screenshots/dark_1.jpg
+
+## Created & Maintained By
+
+-Kishan Singh
+
+## News API Credit
+https://newsapi.org/
 
 This project is a starting point for a Flutter application.
 
